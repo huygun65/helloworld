@@ -2,4 +2,4 @@
 git introduction
 this is the first time I study with git
 I change the read me file
-then I will commit the changes 
+then I did not hire home yet will commit tomorrow i will look at the changes 
